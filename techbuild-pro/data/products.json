@@ -1,0 +1,127 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Corsair Vengeance DDR5 32GB",
+            "description": "32GB (2x16GB) DDR5 6000MHz RAM for high-performance builds",
+            "price": 119,
+            "stock": 0,
+            "type": "component",
+            "category": "RAM",
+            "image": "Corsair Vengeance DDR5 32GB.jpg",
+            "status": "active"
+        },
+        {
+            "id": 2,
+            "name": "NVIDIA GeForce RTX 4070",
+            "description": "12GB GDDR6X Graphics Card for gaming and content creation",
+            "price": 599,
+            "stock": 0,
+            "type": "component",
+            "category": "GPU",
+            "image": "NVIDIA GeForce RTX 4070.jpg",
+            "status": "active"
+        },
+        {
+            "id": 3,
+            "name": "AMD Ryzen 7 7700X",
+            "description": "8-core\/16-thread CPU with excellent multi-tasking performance",
+            "price": 349,
+            "stock": 0,
+            "type": "component",
+            "category": "CPU",
+            "image": "AMD Ryzen 7 7700X.jpg",
+            "status": "active"
+        },
+        {
+            "id": 4,
+            "name": "Samsung 980 Pro 1TB NVMe SSD",
+            "description": "Gen4 PCIe SSD with up to 7,000 MB\/s read speed",
+            "price": 129,
+            "stock": 0,
+            "type": "component",
+            "category": "Storage",
+            "image": "Samsung 980 Pro 1TB NVMe SSD.jpg",
+            "status": "active"
+        },
+        {
+            "id": 5,
+            "name": "ASUS ROG Strix B650E-F",
+            "description": "ATX motherboard with PCIe 5.0 support for Ryzen 7000 series",
+            "price": 249,
+            "stock": 0,
+            "type": "component",
+            "category": "Motherboard",
+            "image": "ASUS ROG Strix B650E-F.jpg",
+            "status": "active"
+        },
+        {
+            "id": 6,
+            "name": "Gaming PC Build - RTX 4070",
+            "description": "Custom-built gaming PC with Ryzen 7 7700X, 32GB DDR5, 1TB SSD, RTX 4070",
+            "price": 1499,
+            "stock": 0,
+            "type": "build_package",
+            "category": "Gaming",
+            "image": "Gaming PC Build - RTX 4070.jpg",
+            "status": "active"
+        },
+        {
+            "id": 7,
+            "name": "Budget Office Workstation",
+            "description": "Reliable PC for students and remote work: Ryzen 5, 16GB RAM, 512GB SSD",
+            "price": 690,
+            "stock": 0,
+            "type": "build_package",
+            "category": "Office",
+            "image": "Budget Office Workstation.jpg",
+            "status": "active",
+            "updated_at": "2025-11-19 04:51:26"
+        },
+        {
+            "id": 8,
+            "name": "Video Editing Workstation",
+            "description": "High-end build for creators: Ryzen 9, 64GB RAM, RTX 4080, 2TB SSD",
+            "price": 2499,
+            "stock": 0,
+            "type": "build_package",
+            "category": "Creator",
+            "image": "Video Editing Workstation.jpg",
+            "status": "active"
+        },
+        {
+            "id": 9,
+            "name": "On-Site Laptop Repair",
+            "description": "Virus removal, system optimization, and hardware diagnostics",
+            "price": 89,
+            "stock": 0,
+            "type": "repair_service",
+            "category": "Laptop",
+            "image": "On-Site Laptop Repair.jpg",
+            "status": "active"
+        },
+        {
+            "id": 10,
+            "name": "Desktop PC Tune-Up",
+            "description": "Clean dust, thermal paste replacement, and performance optimization",
+            "price": 69,
+            "stock": 0,
+            "type": "repair_service",
+            "category": "Desktop",
+            "image": "Desktop PC Tune-Up.jpg",
+            "status": "active"
+        },
+        {
+            "id": 11,
+            "name": "Data Recovery Service",
+            "description": "Recover lost files from corrupted or failed drives (up to 500GB)",
+            "price": 129,
+            "stock": 0,
+            "type": "repair_service",
+            "category": "Data",
+            "image": "Data Recovery Service.jpg",
+            "status": "active"
+        }
+    ],
+    "last_id": 11
+}
